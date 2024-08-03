@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-modules": "^1.0.1",
+    "pg": "^8.12.0",
+    "sequelize": "^6.37.3"
+  }
+}
